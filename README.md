@@ -1,5 +1,5 @@
 # LocapicFront
-Projet réalisé du 24 au 27 Novembre lors de ma formation à La Capsule. Il intègre une carte sur laquelle nous pouvons ajouter des points d’intérêts avec des titres et descriptions et un chat avec les différents utilisateurs de l'application 
+Application React Native réalisée lors de la 7ème semaine de formation du 24 au 27 Novembre. Elle intègre une carte sur laquelle nous pouvons ajouter des points d’intérêts avec des titres et descriptions et un chat avec les différents utilisateurs de l'application 
 
 
 ![alt text](https://res.cloudinary.com/drchl4shw/image/upload/v1613819765/locapic1_y6zx2f.png)
